@@ -1,13 +1,13 @@
-name = "Create on Vulkan"
+name = "Create Skies"
 author = "Stormster"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c9f628955f571b267c45f484789559423c3a3af611c2af334e21a0d5106524ae"
+hash = "aa6cd0711a70418cf9aa843b4f68db2819ee135ced2bae48bc92ea3175ce8020"
 
 [versions]
-fabric = "0.20.1"
-minecraft = "26.1.2"
+minecraft = "1.21.1"
+neoforge = "21.1.266"
