@@ -1,0 +1,13 @@
+name = "Create on Vulkan"
+author = "Stormster"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c9f628955f571b267c45f484789559423c3a3af611c2af334e21a0d5106524ae"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.1.2"

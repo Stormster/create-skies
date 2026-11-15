@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
+metafile = true
+
+[[files]]
+file = "mods/copycats-plus-createfly-port.pw.toml"
+hash = "3c834991d1fd62a1383d4ee00de426a4840a4db6bf979da5eace580bc5d247f2"
+metafile = true
+
+[[files]]
+file = "mods/create-fly-steam-n-rails-unofficial-port.pw.toml"
+hash = "de51c78486b45f4f795b038f9ede056e2bf246f1967391da6a48836303f3a6fd"
+metafile = true
+
+[[files]]
+file = "mods/create-fly.pw.toml"
+hash = "65e88efd8a0cd657f4510711f78b4b66b8372ff261905102717116f0a2ae72b6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "46c13077e518b312d993a6853c3cd046b724cfc48664481ec0b651ed308aa292"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "31d9aec9490ee7a7d84ab1e505be06021b1cc5eae48a68622464bda7b05cda3d"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "6f55bb92182d56d99c349f1f2eaef5f05ff9a6301006ece06545a4ef144b7c51"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ff3b8e19820888b63a129f5c5769a1671bda1e1376de0deb216c6862f0feca2d"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "1d813aa54519b098b6aff8e5cae731990b7b7e4d5cda3dea7a9ece2845684892"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "5589b35ab770daa5deb3d5ee1b1279c2eafe2334ad17e140b51e68f121123047"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
+metafile = true
+
+[[files]]
+file = "mods/vulkan-create-compat.pw.toml"
+hash = "d40ac8f1035ad9085de911b9f3c42e8de239fa5c3240b1914bd51664e4c39eb9"
+metafile = true
+
+[[files]]
+file = "mods/vulkanmod.pw.toml"
+hash = "45b2dc8ee43d88cf78a79a61a79e7ee9407a5ba7a6aa18c8438a91e8e75c72bd"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "f8093398ea105ffc56ed363cc60cb8ff49ee4eed40bfccd3d0cf835ee8d34bdf"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "2595d106a4b62ec2887ab7b51d12ab26061f18a555a8df22fd7a84913928af58"
+metafile = true
