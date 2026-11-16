@@ -1,0 +1,13 @@
+name = "Default-Style Christmas Pack"
+filename = "ChristmasPack_26.3_v3.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GVW3MpmB/versions/XC3fqfHS/ChristmasPack_26.3_v3.3.zip"
+hash-format = "sha512"
+hash = "02dd172f35f19806683a543cfa213117c6da0c23ba5a257e620586715dfbd0d61e9a0c85b265f2ac4c7475868e5084087a73a7fb6af947304857843a81faa723"
+
+[update]
+[update.modrinth]
+mod-id = "GVW3MpmB"
+version = "XC3fqfHS"
