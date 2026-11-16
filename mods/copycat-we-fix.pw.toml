@@ -1,0 +1,13 @@
+name = "Copycat WE fix"
+filename = "copycatwefix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sm9fh16j/versions/TULCKWnD/copycatwefix-1.0.0.jar"
+hash-format = "sha512"
+hash = "2fea15d209d4662a38f6fc87f25575846b309b4e48b85a0935efafe126b1e82d4c78dcce7b9a18b45ecd5cca24b50509283b35a5be062c57343bc304d625455e"
+
+[update]
+[update.modrinth]
+mod-id = "sm9fh16j"
+version = "TULCKWnD"
