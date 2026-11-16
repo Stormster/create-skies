@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iris.properties"
+hash = "310dcde949f617b301db4d86df4dc208358071d9fbda77ee190df36ae7f083c0"
+preserve = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -211,6 +216,11 @@ hash = "f4bc20e3483a7a935b9ee674227aad73d24ecc4ea93e6c2d99955927a2197b20"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "aad5dba19b43a9261a35f421a393e6dc6edf65b78fd9f23199be3087f8c561fa"
+preserve = true
+
+[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "eb0b5f269171cd5b891d9bdf2c5da89698e21a71ffec1172ead75bc19411cbdc"
 metafile = true
@@ -261,6 +271,11 @@ metafile = true
 file = "resourcepacks/snowy-leaves.pw.toml"
 hash = "f3bb2d2ff9a22cd0648b57f25c05ed5ae755134ae9fb13c496f8a6fb1b4dc652"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt"
+hash = "94e9884c246126cfd7f6a2c15e36c207bdbf6c045efb5496f7e388197ec0c1cc"
+preserve = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
