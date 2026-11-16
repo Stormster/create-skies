@@ -1,0 +1,3 @@
+version:3955
+resourcePacks:["vanilla","mod_resources","moonlight:merged_pack","file/LowOnFire v26.2§8.zip","file/create-skies-fixes","file/ChristmasPack_26.3_v3.3.zip","file/Create_Ultra_2.8.zip","file/FreshAnimations_v1.11.2_1.20+.zip","file/snowy-leaves-v1-0-0-mc-1-21-3.zip"]
+incompatibleResourcePacks:[]
