@@ -136,6 +136,11 @@ hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "9d937a18c45d97e551c97677f5ed65c0a31837ba63e3767dbca7a498dadb9d58"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "8690379014fbba53059759936c7deb4d62aabc7a2006da3d45929dc582b119b7"
 metafile = true
@@ -196,6 +201,18 @@ hash = "eb0b5f269171cd5b891d9bdf2c5da89698e21a71ffec1172ead75bc19411cbdc"
 metafile = true
 
 [[files]]
+file = "resourcepacks/create-skies-fixes/assets/minecraft/models/block/cross_emissive.json"
+hash = "47147dc717086ebbe1667f9ae5fc0e9b5b6d6c1b9bae6b005686b0ccf6a5838e"
+
+[[files]]
+file = "resourcepacks/create-skies-fixes/assets/minecraft/models/block/flower_pot_cross_emissive.json"
+hash = "b2847204d83d9cbcacc2fb32c4a4f0d3ad66bcd6c5da78a5cb8c6f6c82cbc7b6"
+
+[[files]]
+file = "resourcepacks/create-skies-fixes/pack.mcmeta"
+hash = "b637b7748cd0d28178191adfece7b1f6aa20949b52386d5edf3a8947e66c5a2d"
+
+[[files]]
 file = "resourcepacks/create-ultra-pbr.pw.toml"
 hash = "e32f70affb27a059a39c250f67b979a98f2696ffde54d9265bfed50ff9b227e8"
 metafile = true
@@ -223,6 +240,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "0ce41000cbbb72e9c03ae3738500aae1056f1102ddc4e5a46784ec18cabf6ca7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/snowy-leaves.pw.toml"
+hash = "f3bb2d2ff9a22cd0648b57f25c05ed5ae755134ae9fb13c496f8a6fb1b4dc652"
 metafile = true
 
 [[files]]

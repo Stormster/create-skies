@@ -1,0 +1,13 @@
+name = "Snowy Leaves"
+filename = "snowy-leaves-v1-0-0-mc-1-21-3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SNAI2Q7i/versions/wHMHrP6y/snowy-leaves-v1-0-0-mc-1-21-3.zip"
+hash-format = "sha512"
+hash = "7bfd82fc9343eac980058f03c100d4020d1af0d90b14767d9b79434d29ff410ff53eff314c777cbe9a4749dcb755309b6cc33cb7bd0006c0cd250c41b5628524"
+
+[update]
+[update.modrinth]
+mod-id = "SNAI2Q7i"
+version = "wHMHrP6y"
